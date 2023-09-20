@@ -14,8 +14,8 @@ def divide(x, y):
 
 # Example usage
 try:
-    num1 = float(input("Enter a number: "))
-    num2 = float(input("Enter another number: "))
+    num1 = float(input("Enter a number: ")) #5
+    num2 = float(input("Enter another number: ")) #0
 
     result = divide(num1, num2)
     print(f"Result of division: {result}")
