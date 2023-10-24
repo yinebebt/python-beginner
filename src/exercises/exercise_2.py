@@ -1,3 +1,4 @@
+'''
 # Q.2
 def remove_chars(string, n):
     if n < 0:
@@ -5,8 +6,7 @@ def remove_chars(string, n):
     return string[n:]
 
 
-remove_chars("kiburcollege", 50)
-
+upd_str= remove_chars("kiburcollege", 5)
 # Q.3
 
 
@@ -32,7 +32,7 @@ def exp(a, b):
     return exp
 
 
-exp(5, 4)
+print(exp(5, 4))
 
 # Q.5
 num = int(input("Enter a number: "))
@@ -52,13 +52,13 @@ for num in numbers:
             break
         else:
             print(num)
+'''
 
 # Q. 7
 num1 = 0
 num2 = 1
-print(num1)
-print(num2)
+print(num1, num2, end=" ")
 for i in range(8):
-    i = num1 + num2
-    print(i)
-    num1, num2 = num2, i
+    num3 = num1 + num2
+    print(num3, end=" ")
+    num1, num2 = num2, num3

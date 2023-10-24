@@ -1,6 +1,6 @@
 # Import the math_operations module
-import math_operations
-import math_operations as math
+import src.math_operations as math_operations
+import src.math_operations as math
 a= input
 # Use functions from the module
 result1 = math_operations.add(5, 3)
