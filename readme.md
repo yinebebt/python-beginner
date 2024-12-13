@@ -1,4 +1,4 @@
-# Boot-camp training (Python programming)
+# Python programming
 
 ## Day-1:
 * Introduction
@@ -43,5 +43,4 @@
     - writing to a file 
     - reading a file
 
-## Author
- [Yinebeb T.](https://gitlab.com/Yinebeb-01)
+## Slide: [Googel slide](https://docs.google.com/presentation/d/1cS2Md_OVhOmfKR3XrfUD-OGk9k_9eabRhQ2HcNxNR8U/edit?usp=sharing)
